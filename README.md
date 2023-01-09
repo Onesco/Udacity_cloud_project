@@ -8,6 +8,9 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 2. [The RestAPI Backend](https://github.com/udacity/cloud-developer/tree/master/course-02/exercises/udacity-c2-restapi), a Node-Express server which can be deployed to a cloud service. [Covered in the course]
 3. [The Image Filtering Microservice](https://github.com/udacity/cloud-developer/tree/master/course-02/project/image-filter-starter-code), the final project for the course. It is a Node-Express application which runs a simple script to process images. [Your assignment]
 
-## How to clone the repo
-there are two branches on this project. The dev branch for development and the main branch for production. The repo url is
-https://github.com/Onesco/Udacity_cloud_project.git
+## Branches
+there are two branches on this project. The [dev branch](https://github.com/Onesco/Udacity_cloud_project/tree/dev) for development and the [main branch](https://github.com/Onesco/Udacity_cloud_project/tree/main) for production. The repo url is https://github.com/Onesco/Udacity_cloud_project.git
+
+### How to clone the repo
+use the code below to clone the dev branch.
+`git clone -b dev https://github.com/Onesco/Udacity_cloud_project.git`
